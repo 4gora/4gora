@@ -13,7 +13,7 @@
 </div>
 
 <hr>
-<h3>Mais Informações</h3>
+<h3>Mais Informações:</h3>
 <div display=inline>
   <a href= "https://www.linkedin.com/in/alessandro-rosario-4935a4217/?trk=public-profile-join-page">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
