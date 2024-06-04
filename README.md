@@ -1,16 +1,22 @@
-## Hi there 👋
+## Alessandro Rosario
+- 🖥️ Estudante de Análise e Desenvolvimento de Sistemas
 
-<!--
-**4gora/4gora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente com foco em:
+<img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-Here are some ideas to get you started:
+- Com conhecimento em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
+    <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+</div>
+
+<hr>
+<h3>Mais Informações</h3>
+<div display=inline>
+  <a href= "https://www.linkedin.com/in/alessandro-rosario-4935a4217/?trk=public-profile-join-page">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+  </a>
+
+</div>
