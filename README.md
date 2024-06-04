@@ -1,10 +1,11 @@
-## Alessandro Rosario
-- 🖥️ Estudante de Análise e Desenvolvimento de Sistemas
+## 🚀 Olá, sou o Alessandro!
+🖥️ Estudante de Análise e Desenvolvimento de Sistemas
 
-- Atualmente com foco em:
+Atualmente com foco em:
+
 <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-- Com conhecimento em:
+Com conhecimento em:
 
 <div>
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
