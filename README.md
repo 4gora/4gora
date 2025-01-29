@@ -3,7 +3,7 @@
 
 Atualmente com foco em:
 <div>
-    <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <!--  <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> -->
 <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
 </div>
